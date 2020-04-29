@@ -1,0 +1,18 @@
+$theme-colors: (
+  "primary": #d91142,
+  "secondary": #696fff,
+  "danger": #a99a65,
+  "dark": #4e2c3d,
+  "light": #4e4b2e,
+  "info": #28464e,
+  "warning": #6f1e18
+);
+
+$body-bg: #b5a9b5;
+
+$font-family-sans-serif: -apple-system;
+
+$border-radius: 15px;
+
+@import "node_modules/bootstrap/scss/bootstrap";
+
